@@ -1,4 +1,4 @@
-# Trabajo Práctico 3 - Rolling Code
+# Trabajo Práctico 1 - Rolling Code
 
 Este trabajo es una práctica de condicionales en js para la academia [Rolling Code](https://rollingcodeschool.com/)
 
